@@ -1,1 +1,14 @@
 /* your code */
+thead{
+	background-color: #215A8E;
+	color: white;
+}
+
+tr:nth-child(even){
+	background-color: #DDDDDD;
+}
+
+table{
+	width: 80vw;
+}
+
